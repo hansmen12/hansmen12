@@ -36,6 +36,6 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 [![React native - Aplicación de tareas](https://ytcards.demolab.com/?id=aOhZGTjYWfw&title=React+native+-+Aplicación+de+tareas&lang=en&timestamp=1740427119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2603 "React native - Aplicación de tareas")](https://www.youtube.com/watch?v=aOhZGTjYWfw&t=1s)
 [![Todo list con ReactJs y tailwindcss](https://ytcards.demolab.com/?id=eP-pSAMd1Cs&t=15s&title=Todo+list+con+ReactJs+y+tailwindcss&lang=en&timestamp=1734427119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1463 "Todo list con ReactJs y tailwindcss")](https://www.youtube.com/watch?v=eP-pSAMd1Cs&t=15s)
-[![Clone de YouTube usando react native](https://ytcards.demolab.com/?id=GL4AbSOrgw0&title=Clone+de+YouTube+usando+React+native&lang=en&timestamp=1734427119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1463 "Clone de YouTube usando react native")](https://www.youtube.com/watch?v=eP-pSAMd1Cs&t=15s)
+[![Clone de YouTube usando react native](https://ytcards.demolab.com/?id=GL4AbSOrgw0&title=Clone+de+YouTube+usando+React+native&lang=en&timestamp=1734427119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55 "Clone de YouTube usando react native")](https://www.youtube.com/watch?v=eP-pSAMd1Cs&t=15s)
 <!-- END YOUTUBE-CARDS -->
 
