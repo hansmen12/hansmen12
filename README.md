@@ -2,7 +2,7 @@
 
 ◾ 💻 Actualmente trabajando con React JS, Next JS y React Native.
 
-◾ 🏏 Me encanta mirar y hablar sobre tecnología.
+◾ 🏏 Me encanta ver y hablar sobre tecnología.
 
 ◾ 🥅 Objetivos para 2024: aprender nuevas tecnologías.
 
